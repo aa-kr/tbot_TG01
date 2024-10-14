@@ -1,2 +1,2 @@
-TOKEN = '7537664326:AAG02L0nzSoDJ0PezpZkx9uAbd680ii8_r8'
-WEATHER_API_KEY = 'dd575915d9aeb569742ea4e1579fb50c'
+TOKEN = 'Ваш токен'
+WEATHER_API_KEY = 'Ваш токен'
